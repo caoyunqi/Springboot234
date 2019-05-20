@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
     <list default="true" id="0cbe4b94-73ed-4f95-9377-6c644574aeff" name="Default Changelist" comment="" />
-=======
-    <list default="true" id="1e4d0d08-4708-4bb8-8d33-b1ce58ad6ceb" name="Default Changelist" comment="" />
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,32 +9,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
+
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-=======
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
+
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
+
             <state relative-caret-position="76">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-=======
+
             <state relative-caret-position="38">
               <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
+
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-<<<<<<< HEAD
+
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -56,59 +51,56 @@
       </list>
     </option>
   </component>
-=======
+
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
+
   <component name="ProjectFrameBounds">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
-<<<<<<< HEAD
+
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-=======
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
+
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
+
       <pane id="PackagesPane" />
-=======
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
+
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-<<<<<<< HEAD
+
               <item name="Springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="Springboot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="Springboot" type="462c0819:PsiDirectoryNode" />
-=======
+
               <item name="Springboot234" type="b2602c69:ProjectViewProjectNode" />
               <item name="Springboot234" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Springboot234" type="b2602c69:ProjectViewProjectNode" />
               <item name="Springboot234" type="462c0819:PsiDirectoryNode" />
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
-=======
+
       <pane id="PackagesPane" />
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
+
       <pane id="Scope" />
     </panes>
   </component>
@@ -116,10 +108,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
+
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-=======
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
+
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,7 +129,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
+
       <changelist id="0cbe4b94-73ed-4f95-9377-6c644574aeff" name="Default Changelist" comment="" />
       <created>1558017366042</created>
       <option name="number" value="Default" />
@@ -160,25 +151,21 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1702000" />
-=======
       <changelist id="1e4d0d08-4708-4bb8-8d33-b1ce58ad6ceb" name="Default Changelist" comment="" />
       <created>1558363520696</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558363520696</updated>
       <workItem from="1558363521887" duration="18000" />
-    </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="18000" />
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1260" height="640" extended-state="0" />
     <editor active="true" />
     <layout>
-<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -186,7 +173,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-=======
+
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -199,7 +186,6 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -207,7 +193,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-<<<<<<< HEAD
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32874015" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -253,7 +238,6 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
     </layout-to-restore>
-=======
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Maven" />
@@ -264,12 +248,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-<<<<<<< HEAD
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
       <list>
@@ -289,13 +271,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-=======
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
->>>>>>> 483dbed6f0da501023f6b9889333d3966eed53b6
         </state>
       </provider>
     </entry>

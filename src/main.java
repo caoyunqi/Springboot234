@@ -5,4 +5,8 @@ public class main {
                 System.out.println("11111");
             }
 
+            public static void main(String[] are){
+                System.out.println("1234");
+            }
+
 }
